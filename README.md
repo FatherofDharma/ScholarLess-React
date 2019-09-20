@@ -55,6 +55,8 @@ Friday, September 20th:
 1. Started off with brainstorming and considering project structure, with no code or documents to submit.
 2. Create basic project structure
 3. Readme creation
+4. Researching core api at https://core.ac.uk/services/api/
+
 
 ## Setup/Installation Requirements
 
