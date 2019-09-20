@@ -59,6 +59,7 @@ Friday, September 20th:
 5. Working with Core's discovery browser plugin to understand the limitations of their access to research articles.
 6. Registered and received a CORE API key and have been navigating documentation and successfully making api calls.
 7. Still making API calls and planning the best way to achieve MVP with the current JSON data that is returned.
+8. Sketching out various layout ideas and attempting to come up with a solid idea for project component structure.
 
 
 ## Setup/Installation Requirements
