@@ -56,6 +56,7 @@ Friday, September 20th:
 2. Create basic project structure
 3. Readme creation
 4. Researching core api at https://core.ac.uk/services/api/
+5. Working with Core's discovery browser plugin to understand the limitations of their access to research articles.
 
 
 ## Setup/Installation Requirements
@@ -91,7 +92,9 @@ Please contact me if you encounter issues with this program, have suggestions, o
 * GitHub
 * Simple-react-app _by Kornil (github user)_
 
-### License
+## License
 _This software is licensed under MIT license._
 
 Copyright (c) 2019 **_Daniel Hongel_**
+
+## Citations and Credits
