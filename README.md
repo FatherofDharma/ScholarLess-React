@@ -57,6 +57,7 @@ Friday, September 20th:
 3. Readme creation
 4. Researching core api at https://core.ac.uk/services/api/
 5. Working with Core's discovery browser plugin to understand the limitations of their access to research articles.
+6. Registered and received a CORE API key and have been navigating documentation and successfully making api calls.
 
 
 ## Setup/Installation Requirements
