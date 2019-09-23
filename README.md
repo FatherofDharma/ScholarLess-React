@@ -19,28 +19,28 @@ This application will use api calls to search for and access open-source version
 >
 >**List the absolute minimum features the project requires to meet this purpose or goal:**
 >
-> * Create, edit, and remove accounts
+>* Create, edit, and remove accounts
 >* Create, edit and remove project directories for articles
 >* Search, return, and store articles
 >
 >**What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.**
 >
 >* HTML5, JavaScript, Node, Webpack, and associated packages
-* React, most likely Redux, Firebase, and React-Router
-* Depending on project needs, a secondary API may need to be built in Ruby and Rails
+>* React, most likely Redux, Firebase, and React-Router
+>* Depending on project needs, a secondary API may need to be built in Ruby and Rails
 >
 >**If you finish developing the minimum viable product (MVP) with time to spare, what will you work on next? Describe these features here: Be specific.**
 >
 >* Mobile App port
-* More specific layout customizability for users.
-* Suggested articles by the same research group
-* Suggested articles of the same subject matter
+>* More specific layout customizability for users.
+>* Suggested articles by the same research group
+>* Suggested articles of the same subject matter
 >
 >**What additional tools, frameworks, libraries, APIs, or other resources will these additional features require?**
 >
 >* Possibly Bootstrap, and jQuery
-* It is possible that I may need to use PostgresQL
-* Possibly other packages for needs that may arise after starting to create the project
+>* It is possible that I may need to use PostgresQL
+>* Possibly other packages for needs that may arise after starting to create the project
 >
 >**Is there anything else you’d like your instructor to know?**
 >
