@@ -20,8 +20,8 @@ This application will use api calls to search for and access open-source version
 >**List the absolute minimum features the project requires to meet this purpose or goal:**
 >
 > * Create, edit, and remove accounts
-* Create, edit and remove project directories for articles
-* Search, return, and store articles
+>* Create, edit and remove project directories for articles
+>* Search, return, and store articles
 >
 >**What tools, frameworks, libraries, APIs, modules and/or other resources (whatever is specific to your track, and your language) will you use to create this MVP? List them all here. Be specific.**
 >
