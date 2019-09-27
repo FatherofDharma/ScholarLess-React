@@ -66,6 +66,7 @@ Friday, September 27th:
 1. Started off with some planning and research into various storage solutions.
 2. Installed the expo cli as well as app on ios and started the tutorial:
   1. Completed 'Getting Started' and 'Learn the Basics' lessons.
+  2. Completed 'Props' lesson.
 
 ## Setup/Installation Requirements
 
