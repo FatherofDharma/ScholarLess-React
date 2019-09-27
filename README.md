@@ -72,6 +72,7 @@ Friday, September 27th:
   5. Completed 'Height and Width' lesson.
   6. Completed 'Layout with Flexbox' lesson.
   7. Completed 'Handling Text Input' lesson.
+  8. Completed 'Handling Touches' lesson.
 
 ## Setup/Installation Requirements
 
