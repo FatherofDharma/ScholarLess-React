@@ -70,6 +70,7 @@ Friday, September 27th:
   3. Completed 'State' lesson.
   4. Completed 'Style' lesson.
   5. Completed 'Height and Width' lesson.
+  6. Completed 'Layout with Flexbox' lesson.
 
 ## Setup/Installation Requirements
 
