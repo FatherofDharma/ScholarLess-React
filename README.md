@@ -67,6 +67,7 @@ Friday, September 27th:
 2. Installed the expo cli as well as app on ios and started the tutorial:
   1. Completed 'Getting Started' and 'Learn the Basics' lessons.
   2. Completed 'Props' lesson.
+  3. Completed 'State' lesson.
 
 ## Setup/Installation Requirements
 
