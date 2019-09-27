@@ -64,7 +64,7 @@ Friday, September 20th:
 Friday, Sewptember 27th:
 
 1. Started off with some planning and research into various storage solutions.
-
+2. Installed the expo cli as well as app on ios and started the tutorial.
 
 ## Setup/Installation Requirements
 
