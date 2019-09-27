@@ -68,6 +68,7 @@ Friday, September 27th:
   1. Completed 'Getting Started' and 'Learn the Basics' lessons.
   2. Completed 'Props' lesson.
   3. Completed 'State' lesson.
+  4. Completed 'Style' lesson.
 
 ## Setup/Installation Requirements
 
