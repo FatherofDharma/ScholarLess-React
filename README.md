@@ -61,6 +61,10 @@ Friday, September 20th:
 7. Still making API calls and planning the best way to achieve MVP with the current JSON data that is returned.
 8. Sketching out various layout ideas and attempting to come up with a solid idea for project component structure.
 
+Friday, Sewptember 27th:
+
+1. Started off with some planning and research into various storage solutions.
+
 
 ## Setup/Installation Requirements
 
