@@ -61,10 +61,11 @@ Friday, September 20th:
 7. Still making API calls and planning the best way to achieve MVP with the current JSON data that is returned.
 8. Sketching out various layout ideas and attempting to come up with a solid idea for project component structure.
 
-Friday, Sewptember 27th:
+Friday, September 27th:
 
 1. Started off with some planning and research into various storage solutions.
-2. Installed the expo cli as well as app on ios and started the tutorial.
+2. Installed the expo cli as well as app on ios and started the tutorial:
+  1. Completed 'Getting Started' and 'Learn the Basics' lessons.
 
 ## Setup/Installation Requirements
 
