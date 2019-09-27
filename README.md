@@ -69,6 +69,7 @@ Friday, September 27th:
   2. Completed 'Props' lesson.
   3. Completed 'State' lesson.
   4. Completed 'Style' lesson.
+  5. Completed 'Height and Width' lesson.
 
 ## Setup/Installation Requirements
 
